@@ -11,12 +11,12 @@ h1 {
 
 h2 {
   text-align: center;
-  font-size: 25px;
+  font-size: 3vw;
   font-family: 'Poiret One', cursive;
   margin: 0;
   color: #80CBC4;
   padding: 10px;
-  word-wrap: break-word;
+  word-break: normal;
 
 }
 
@@ -55,7 +55,7 @@ a {
   font-family: 'Raleway', sans-serif;
   color: #880E4F;
   text-align: center;
-  font-size: 10px;
+  font-size: 1.2vw;
   text-decoration:none;
   word-wrap: break-word;
 }
@@ -78,10 +78,9 @@ width:100%;
 }
 
 .threeImages {
-  height:50%;
+  height:auto;
   width: 95%;
   max-width: 100%;
-  
 }
 
 .centerLink{
