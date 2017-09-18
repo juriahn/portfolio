@@ -45,7 +45,8 @@ img {
   opacity: 1;
   margin: 0;
   display: block;
-  width: 100%;
+  max-width: 100%;
+  height:auto;
   padding: 10px 10px 10px 10px;
   border-radius: 25px;
 }
@@ -77,8 +78,10 @@ width:100%;
 }
 
 .threeImages {
-  height:60%;
+  height:50%;
   width: 95%;
+  max-width: 100%;
+  
 }
 
 .centerLink{
@@ -107,6 +110,9 @@ width:100%;
 #arizonaTeaImage{
   margin:0px;
   padding:0px;
+  max-width: 100%;
+  display: block;
+  height: auto;
 }
 
 #firstRow{
@@ -114,7 +120,7 @@ width:100%;
 }
 
 #letterJIcon {
-  width: auto;
+  max-width: auto;
   height: 100%;
   float: left;
 }
