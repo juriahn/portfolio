@@ -47,7 +47,7 @@ img {
   display: block;
   width: 100%;
   padding: 10px 10px 10px 10px;
-  border-radius: 25px
+  border-radius: 25px;
 }
 
 a {
@@ -60,7 +60,7 @@ a {
 }
 
 .container{
-margin: autos
+margin: auto;
 height: 100%;
 width:100%;
 }
