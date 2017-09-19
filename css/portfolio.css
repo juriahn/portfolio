@@ -41,6 +41,16 @@ body{
   padding:10px;
 }
 
+section{
+    width:auto;
+    display: block;
+}
+
+article {
+    width:auto;
+    display: block;
+}
+
 img {
   opacity: 1;
   margin: 0;
